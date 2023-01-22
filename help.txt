@@ -1,0 +1,30 @@
+COMMANDS
+------------------
+
+BASIC COMMANDS
+------------------
+/help or nerd.help
+Show this help message
+
+/invite or nerd.invite
+Sends a message containing a link so that you can add me to your server
+
+LISTING COMMANDS
+------------------
+
+/globaltriggers or nerd.globaltriggers
+Prints out a list of trigger words set by the runner of the bot
+
+WIP Commands (not working yet)
+------------------------------
+/servertriggers
+Prints out a list of trigger words set by the moderators of the server
+
+ADMIN COMMANDS
+------------------
+
+/disableglobal
+Disables the global trigger words
+
+/enableglobal
+Enables the global trigger words
